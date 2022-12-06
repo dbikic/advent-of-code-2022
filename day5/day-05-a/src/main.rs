@@ -1,3 +1,5 @@
+// https://adventofcode.com/2022/day/5
+
 struct Instruction {
     count: usize,
     from: usize,

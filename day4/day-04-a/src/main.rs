@@ -1,3 +1,5 @@
+// https://adventofcode.com/2022/day/4
+
 struct Assignment {
     start: i32,
     end: i32,

@@ -1,3 +1,5 @@
+// https://adventofcode.com/2022/day/1
+
 fn main() {
     let mut max_calories = 0;
     let mut current_calories = 0;

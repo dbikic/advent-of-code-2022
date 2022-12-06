@@ -1,3 +1,5 @@
+// https://adventofcode.com/2022/day/1
+
 fn main() {
     let mut calories: Vec<i32> = vec![];
     let mut current_calories = 0;

@@ -1,3 +1,5 @@
+// https://adventofcode.com/2022/day/2
+
 const ROCK_VALUE: i32 = 1;
 const PAPER_VALUE: i32 = 2;
 const SCISSOR_VALUE: i32 = 3;
