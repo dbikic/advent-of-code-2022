@@ -15,6 +15,7 @@
       <sourceFolder url="file://$MODULE_DIR$/day5/day-05-b/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/day6/day-06-a/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/day6/day-06-b/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day7/day-07-a/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/day1/day-01-b/target" />
       <excludeFolder url="file://$MODULE_DIR$/day1/day-01-a/target" />
       <excludeFolder url="file://$MODULE_DIR$/day2/day-02-a/target" />
@@ -27,6 +28,7 @@
       <excludeFolder url="file://$MODULE_DIR$/day5/day-05-b/target" />
       <excludeFolder url="file://$MODULE_DIR$/day6/day-06-a/target" />
       <excludeFolder url="file://$MODULE_DIR$/day6/day-06-b/target" />
+      <excludeFolder url="file://$MODULE_DIR$/day7/day-07-a/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
