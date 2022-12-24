@@ -1,0 +1,19 @@
+name: 'Test workflow'
+
+on: push
+
+jobs:
+  example:
+    runs-on: self-hosted
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Test commands
+        run: |
+          echo "PWD: "
+          pwd
+          echo "LS: "
+          ls
+          echo "whoami: "
+          whoami
